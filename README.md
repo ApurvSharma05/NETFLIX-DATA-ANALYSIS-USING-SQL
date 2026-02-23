@@ -9,7 +9,7 @@
 This project answers **15 business-relevant questions** about Netflix's content library using SQL. It demonstrates data cleaning, aggregation, window functions, and string parsing on a real-world dataset.
 
 **Dataset:** [Netflix Movies and TV Shows (Till 2025) — Kaggle](https://www.kaggle.com/datasets/bhargavchirumamilla/netflix-movies-and-tv-shows-till-2025)  
-**Reference:** [Kaggle Notebook by ankush0511](https://www.kaggle.com/code/ankush0511/netflix-data-analysis)  
+**Reference:** [Dataset inspiration from Kaggle community discussions]
 **Tools:** SQLite / PostgreSQL · SQL · Python (setup script)
 
 ---
@@ -93,5 +93,6 @@ This project answers **15 business-relevant questions** about Netflix's content 
 ---
 
 ## About
+
 
 Built as a portfolio project to demonstrate SQL proficiency and the ability to extract actionable business insights from real-world data.
